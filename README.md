@@ -1,5 +1,16 @@
 # postgres-backup-restore
 
+Ref links
+
+https://medium.com/@mijlalawan/complete-guide-to-backup-and-restore-postgresql-database-e6f7e99d53eb
+
+https://rajanmandanka.medium.com/postgres-backup-and-restore-7d5c5b463fd3
+
+https://www.w3resource.com/PostgreSQL/postgresql-backup-restore.php
+
+https://medium.com/srp-labs/tutorial-3-postgresql-database-setup-backup-and-restore-f633e7a85d02
+
+
 # Backup the data
 
 Before taking backup check the database size
