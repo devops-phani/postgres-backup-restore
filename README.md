@@ -115,6 +115,6 @@ Ref link
 https://stackoverflow.com/questions/2893954/how-to-pass-in-password-to-pg-dump
 
 ```
-pg_dump postgresql://username:password@127.0.0.1:5432/mydatabase  > mydatabase.sql
+pg_dump -x --no-owner postgresql://username:password@127.0.0.1:5432/mydatabase  > mydatabase.sql
 ```
 
